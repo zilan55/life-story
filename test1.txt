@@ -8,3 +8,5 @@ newday
 going to alaska soon
 
 back to ashulia earlyy
+
+logo alignment is centered.
